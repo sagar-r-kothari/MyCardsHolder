@@ -1,0 +1,59 @@
+{
+  "members": {
+    "author": {
+      "image": "https://avatars0.githubusercontent.com/u/35224411?s=400&v=4",
+      "linkedin": "https://www.linkedin.com/in/sagar-kothari-65a59047/",
+      "name": "Sagar R. Kothari"
+    },
+    "mentors": [
+      {
+        "image": "https://media.licdn.com/dms/image/C4D03AQHVNbcjg50JZw/profile-displayphoto-shrink_800_800/0?e=1571270400&v=beta&t=KdoUcC9qVOmCPl92GkXhZllwGuO7GGroamQy5C54uI4",
+        "linkedin": "https://www.linkedin.com/in/kaunteya-suryawanshi-07a51b3b/",
+        "name": "Kaunteya Suryavanshi"
+      },
+      {
+        "image": "https://media.licdn.com/dms/image/C5103AQEgjR0aRLD9lQ/profile-displayphoto-shrink_800_800/0?e=1571270400&v=beta&t=bzzJcVbki_5LJ5SVwbkvmwl1CRuDUYRaI1KE6wrHucM",
+        "linkedin": "https://www.linkedin.com/in/sukrit-gupta-563506b0/",
+        "name": "Sukrit Gupta"
+      },
+      {
+        "image": "https://media.licdn.com/dms/image/C4E03AQH7WQchPS5yOw/profile-displayphoto-shrink_800_800/0?e=1571270400&v=beta&t=5OG0ddlr5FOFrhLyI_mqXZPnaOBi1_XiyfuAD3uVdno",
+        "linkedin": "https://www.linkedin.com/in/sam-solomon-71316880/",
+        "name": "Sam Solomon"
+      },
+      {
+        "image": "https://www.iconfinder.com/icons/172624/download/png/128",
+        "linkedin": "https://www.linkedin.com/in/noopur-arya-a1969815/",
+        "name": "Noopur Arya"
+      }
+    ],
+    "qas": [
+      {
+        "image": "https://media.licdn.com/dms/image/C5603AQEu4sv4sp_msw/profile-displayphoto-shrink_800_800/0?e=1571270400&v=beta&t=nwLCVwvZ00GSL3df-umSrE4qQAhLecQ4BlAUNbowXM4",
+        "linkedin": "https://www.linkedin.com/in/darshanchheda/",
+        "name": "Darshan Chheda"
+      },
+      {
+        "image": "https://media.licdn.com/dms/image/C5103AQHP8iN5OXaqEw/profile-displayphoto-shrink_800_800/0?e=1571270400&v=beta&t=yfY4TshkPWioAh3RPxq1F6n_g9EP3R09gm0AiZ0fFOM",
+        "linkedin": "https://www.linkedin.com/in/aishvaryaverma/",
+        "name": "Aishvarya Verma"
+      }
+    ]
+  },
+  "meta": {
+    "appUrl": "https://apps.apple.com/app/IncomeExpenseTracker/id1479352003",
+    "iOSAppUrl": "https://apps.apple.com/app/IncomeExpenseTracker/id1479352003",
+    "macOSAppUrl": "https://apps.apple.com/app/moneymeter/id1482614257",
+    "appVersion": "1.3",
+    "mailto": "https://github.com/sagar-r-kothari/MoneyMeter/issues",
+    "review": "https://apps.apple.com/app/IncomeExpenseTracker/id1479352003?action=write-review",
+    "iOSReview": "https://apps.apple.com/app/IncomeExpenseTracker/id1479352003?action=write-review",
+    "macOSReview": "https://apps.apple.com/app/moneymeter/id1482614257?action=write-review",
+    "shareText": "The MoneyMeter mobile application helps you record your incomes & expenses. View reports by categories, wallets, accounts, locations. And more...Download now: https://apps.apple.com/app/IncomeExpenseTracker/id1479352003?ls=1&mt=8",
+    "web": {
+      "image": "https://sagar-r-kothari.github.io/MoneyMeter/assets/appicon.png",
+      "linkedin": "https://sagar-r-kothari.github.io/MoneyMeter",
+      "name": "Website"
+    }
+  }
+}
