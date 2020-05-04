@@ -1,19 +1,19 @@
 #page title
-page_title                                : MoneyMeter                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : MyCardsHolder                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1479352003                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1490831452                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
-appstore_link                             : https://apps.apple.com/us/app/moneymeter/id1479352003?ls=1 # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-macstore_link                             : https://apps.apple.com/us/app/moneymeter/id1482614257?ls=1
+appstore_link                             : https://apps.apple.com/us/app/mycardsholder/id1490831452?ls=1 # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+macstore_link                             : https://apps.apple.com/us/app/moneymeter/id1490831452?ls=1
 playstore_link                            :                                           # Enter Google Play Store URL.
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : MoneyMeter                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : MyCardsHolder                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Track your incomes & expenses, analyse visually with reports. MoneyMeter helps you understand cashflow.
+app_description                           : Save Credit cards, Driving license, Passport, Passwords and more.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -24,8 +24,8 @@ your_name                                 : Sagar R. Kothari
 your_link                                 : https://sagar-r-kothari.github.io/
 your_city                                 : Hyderabad, Telangana, india
 email_address                             : sag333ar@gmail.com
-facebook_username                         :                                           
-instagram_username                        : 
+facebook_username                         :
+instagram_username                        :
 twitter_username                          : sag333ar
 github_username                           : sagar-r-kothari
 youtube_username                          :
