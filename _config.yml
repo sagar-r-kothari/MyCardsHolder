@@ -35,33 +35,37 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Track expenses
-    description                           : MoneyMeter helps you quickly save your expenses occurred.
-    fontawesome_icon_name                 : receipt
-
-  - title                                 : Track incomes
-    description                           : Save incomes occurred with ease.
-    fontawesome_icon_name                 : hand-holding-usd
-
-  - title                                 : Reports
-    description                           : View reports by Category, wallet, account & location wise to help you analyse your spending pattern.
-    fontawesome_icon_name                 : chart-bar
-
-  - title                                 : Under your own iCloud Account
-    description                           : Everything stays only on your own iCloud account, strictly. 
+  - title                                 : You and your iCloud
+    description                           : Everything you save stays on your iOS/macOS device. Sync works with your iCloud account.
     fontawesome_icon_name                 : apple-alt
 
-  - title                                 : Powerful filters
-    description                           : Apply filters & you'll see your reports updated and list of transactions as well.
-    fontawesome_icon_name                 : funnel-dollar
+  - title                                 : Encrypted
+    description                           : App generates a unique encrypted key, stores it under your iCloud account. Every data is encrypted with key.
+    fontawesome_icon_name                 : key
 
-  - title                                 : Dark mode support
-    description                           : On iOS 13, it supports dark mode.
+  - title                                 : Password autofill
+    description                           : Password autofill support for iOS
+    fontawesome_icon_name                 : unlock
+
+  - title                                 : Attachments
+    description                           : You can add attachments as many as you want. It can be passport, driving license or multiple photos. All of them stays on your iCloud account only.
+    fontawesome_icon_name                 : paperclip
+
+  - title                                 : Easy export
+    description                           : You can easily export/share your secure items with any app or anyone.
+    fontawesome_icon_name                 : file-export
+
+  - title                                 : Unlock with faceid or touchid
+    description                           : Unlock your app with your touch-id or face-id. App-lock provides additional level of security to your data.
+    fontawesome_icon_name                 : fingerprint
+
+  - title                                 : See attachments
+    description                           : Better attachments preview
+    fontawesome_icon_name                 : search-plus
+
+  - title                                 : Dark Mode
+    description                           : Supports dark mode
     fontawesome_icon_name                 : moon
-
-  - title                                 : Summary <-> Details
-    description                           : Expand collapse feature, helps you view summary & details.
-    fontawesome_icon_name                 : expand-arrows-alt
 
 # Theme Settings
 topbar_color                              : "#000000"
